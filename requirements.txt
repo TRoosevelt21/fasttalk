@@ -2,5 +2,3 @@ PyQt5~=5.15.4
 requests~=2.25.1
 DateTime~=4.3
 Flask~=1.1.2
-
-MIF10-2ForzaJuve
